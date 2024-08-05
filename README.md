@@ -1,7 +1,7 @@
 - [x] Setup do Banco
 - [x] Seeding do banco
 - [x] Introdução ao Next.js
-- [] Tailwind e Shadcn UI
+- [x] Tailwind e Shadcn UI
 - [] Git Hooks
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
